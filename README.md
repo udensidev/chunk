@@ -1,6 +1,6 @@
 # Chunk
 
-Split an audio file into different chunks where silence is identified
+Split an audio file into different chunks where silence is identified.
 
 ## Setting up
 * Install Python
